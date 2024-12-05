@@ -1,0 +1,28 @@
+h3{
+    color:rgb(249, 59, 217);
+}
+image{
+    color: brown;
+}
+table{
+    background-color: rgb(221, 158, 82);
+    color: rgb(25, 26, 26);
+}
+#qw{
+    background-color: rgb(183, 143, 83);
+}
+*{
+    background-color: rgb(179, 235, 231);
+    
+    background-image:  loc("https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcolorful-background&psig=AOvVaw0UIHkcIRdZuyposRHoGvCS&ust=1733228240366000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCgrb-IiYoDFQAAAAAdAAAAABAE");
+}
+.common{ 
+    background-color: rgb(67, 230, 159);
+    color: brown;
+}
+body{
+    border: 3px solid;
+    margin: 10px;
+    padding: 20px;
+    display: flow-root;
+}

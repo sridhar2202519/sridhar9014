@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(244, 237, 157);
+    /* border-style: dotted; */
+}
+#cs1{
+    /* border-style: dotted; */
+}
+#img1{
+    float: left;
+    margin: 10px;
+    border-style:dashed;
+}
+#img2{
+    float: right;
+    margin: 10px;
+    border-style:dashed;
+}
+#para{
+    background-color: rgba(232, 64, 238, 0.167);
+}
+#button{
+  background-color: rgb(73, 239, 112);
+}
+#contact{ 
+    padding: 20px;
+    border-style: dashed;
+    background-color: blue  ;
+ 
+} 
